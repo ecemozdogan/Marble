@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48f324946c4a75145b53355d6f2b59f4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kanno
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24693a4a00147b344ac8da39d0ce69db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

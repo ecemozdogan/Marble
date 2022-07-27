@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3be39b63e13624b468d09f318e483a19
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Classic Robot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 025610566701b964095366a0b72c878e, type: 3}
+  - {fileID: 12800000, guid: 078d4d5d705d61a45890e3a1b6964579, type: 3}
+  - {fileID: 12800000, guid: f6e939ab1f33beb4ebdc883664f21202, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
